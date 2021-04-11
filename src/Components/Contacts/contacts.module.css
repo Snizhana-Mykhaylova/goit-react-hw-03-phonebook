@@ -1,0 +1,15 @@
+.contactItem {
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+
+  margin-bottom: 10px;
+}
+
+.number {
+  margin-left: 10px;
+}
+
+.button {
+  margin-left: auto;
+}
